@@ -8,7 +8,7 @@ BER-Clear is a project that focuses on curating Building Energy Rating (BER) dat
 
 - ETL for Irish BER dataset: Our project includes an Extract, Transform, and Load (ETL) process specifically designed for the Irish Building Energy Rating (BER) dataset. This allows for efficient data extraction, transformation, and loading into the project.
 
-- Integration of Scarf for Self-supervised Contrastive Learning: We have integrated the [Scarf](https://github.com/clabrugere/pytorch-scarf) repository into our project to leverage its self-supervised contrastive learning capabilities. This integration enables us to extract meaningful embeddings for the BER dataset, enhancing the overall performance of our project.
+- Integration of Scarf for Self-supervised Contrastive Learning: We have integrated the [Scarf](https://github.com/clabrugere/pytorch-scarf) repository into our project to leverage its self-supervised contrastive learning capabilities. This integration enables us to extract meaningful embeddings for the BER dataset for visualization.
 
 - Merging overlapping class with Confident Learning (use [CleanLab](https://github.com/cleanlab/cleanlab)): To address the issue of overlapping classes in the BER dataset, we have implemented a merging technique using Confident Learning with CleanLab. This approach helps to improve the accuracy and reliability of the dataset by resolving inconsistencies.
 
