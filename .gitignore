@@ -22,13 +22,11 @@ kaggle/
 **/wandb/
 
 # input data
-input/*
-!input/**/*/.gitkeep
+input/
 #git add -f input/**/*/.gitkeep
 
 # output data
 output/
-!output/**/*/.gitkeep
 
 # Except for .gitignore itself
 !.gitignore
