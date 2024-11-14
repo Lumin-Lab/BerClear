@@ -1,0 +1,10 @@
+torch==2.3.0
+pandas==2.2.2
+numpy==1.26.4
+wandb==0.17.0
+scikit-learn==1.5.0
+cleanlab[datalab]==2.6.5
+matplotlib==3.9.0
+python-dotenv==1.0.1
+xgboost==2.0.3
+seaborn==0.13.2
