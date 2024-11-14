@@ -22,7 +22,15 @@ kaggle/
 **/wandb/
 
 # input data
-input/
+input/*
 
 # output data
 output/
+
+# Except for .gitignore itself
+!.gitignore
+
+!input/ber-csv/.gitkeep
+
+
+==
