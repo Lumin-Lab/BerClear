@@ -23,14 +23,16 @@ kaggle/
 
 # input data
 input/*
+!input/**/*/.gitkeep
+#git add -f input/**/*/.gitkeep
 
 # output data
 output/
+!output/**/*/.gitkeep
 
 # Except for .gitignore itself
 !.gitignore
 
-!input/ber-csv/.gitkeep
 
 
 ==
